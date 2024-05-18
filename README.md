@@ -1,3 +1,4 @@
-# CST8233 ODE Methods
-Solves a first order Ordinary Differential Equation (ODE) using two methods, Euler's and Runge-Kutta 4th Order Method  
-Interactive program with different menu prompts for the user to choose their desired method and compare and contrast    
+# R - ODE Methods
+R program that solves an Ordinary Differential Equation using Euler's method and Runge-Kutta’s 4th Order method.  
+Enabled user input to choose the method and data step size.  
+Display the data in a graph and a table with the error percentage of the chosen method.  
